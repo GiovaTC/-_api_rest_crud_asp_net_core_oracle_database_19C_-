@@ -1,7 +1,11 @@
 # -_api_rest_crud_asp_net_core_oracle_database_19C_- :.
 # API REST CRUD con ASP.NET Core 8 + Oracle Database 19c:
 
-<img width="1536" height="1024" alt="16 jun 2026, 10_55_06 a m" src="https://github.com/user-attachments/assets/84be47a6-a14e-4a63-85e7-89ab13d70f58" />  
+<img width="1536" height="1024" alt="16 jun 2026, 10_55_06 a m" src="https://github.com/user-attachments/assets/84be47a6-a14e-4a63-85e7-89ab13d70f58" />    
+
+<img width="1365" height="766" alt="image" src="https://github.com/user-attachments/assets/4e1e3d80-2a07-4f1f-898f-bc0194697e0e" />    
+
+<img width="2555" height="1076" alt="image" src="https://github.com/user-attachments/assets/eb2b512b-99e1-4373-9e5a-cfa65256ca46" />    
 
 ```
 
